@@ -1,0 +1,29 @@
+.estiloMenu{
+    background-color: black;
+    h1 {
+        color: white;
+        display: flex;
+        justify-content: center;
+        padding: 30px;
+        font-size: 37px;
+    }
+
+    div{
+        padding: 15px;
+    }
+
+    img{
+        width: 400px;
+        height: 400px;
+    }
+
+    h2{
+        color: white;
+        text-align: center;
+    }
+
+    p{
+        color: #E6CCB2;
+        text-align: center;        
+    }
+}
